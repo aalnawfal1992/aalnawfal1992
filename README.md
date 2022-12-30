@@ -2,12 +2,10 @@
   <h3 align="left">About me:</h3>
   <p>
       Bioinformatician at :hospital: KFMC, Intrested in Genomics\in-silico :dna: data analysis in love :heart: with Open-source.
-      Major in Labolatories technologies :dna: (2017), curentlly IT :computer: senior student at SEU.
-      <br>
-      💬 Ask me about Clinical Bioinformatics
-      <br>
+      Major in Labolatories technologies :dna: (2017), curentlly IT :computer: senior student at SEU. 💬 Ask me about Clinical Bioinformatics
+      <br align="center">
       📫 How to reach me a.alnawfal.1992@gmail.com
-  </p>
+      </p>
   <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=aalnawfal1992&show_icons=true&locale=en" alt="aalnawfal1992" />
   </p>
