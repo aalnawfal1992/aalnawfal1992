@@ -5,11 +5,12 @@
 <div>
     <h3 align="left">About me:</h3>
     <p>
-        Bioinformatician at KFMC, Intrested in Genomics\in-silico data analysis in love :heart: with Open-source.
+        Bioinformatician at :hospital: KFMC, Intrested in Genomics\in-silico :DNA: data analysis in love :heart: with Open-source.
         Major in Labolatories technologies (2017), curentlly IT :computer: senior student at SEU
         <br>
-        💬 Ask me about **Clinical Bioinformatics**
-        📫 How to reach me **a.alnawfal.1992@gmail.com**
+        💬 Ask me about Clinical Bioinformatics
+        <br>
+        📫 How to reach me a.alnawfal.1992@gmail.com
     </p>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=aalnawfal1992&show_icons=true&locale=en" alt="aalnawfal1992" />
