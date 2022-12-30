@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Abdullah </h3>
-<p align="center"> Bioinformatician from Saudi Arabia 🇸🇦<img src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="aalnawfal1992" /> </p> 
+<p align="center"> Bioinformatician from Saudi Arabia 🇸🇦 <br><img src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="aalnawfal1992" /> </p> 
 
 
 
