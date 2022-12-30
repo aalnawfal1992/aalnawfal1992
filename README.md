@@ -3,7 +3,7 @@
   <p>
       Bioinformatician at :hospital: KFMC, Intrested in Genomics\in-silico :dna: data analysis in love :heart: with Open-source.
       Major in Labolatories technologies :dna: (2017), curentlly IT :computer: senior student at SEU. 💬 Ask me about Clinical Bioinformatics
-      <h1 align="center">📫 How to reach me: a.alnawfal.1992@gmail.com</h1>
+      <h5 align="center">📫 How to reach me: a.alnawfal.1992@gmail.com</h5>
       </p>
   <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=aalnawfal1992&show_icons=true&locale=en" alt="aalnawfal1992" />
