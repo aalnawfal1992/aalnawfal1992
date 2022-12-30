@@ -5,7 +5,7 @@
 <div>
     <h3 align="left">About me:</h3>
     <p>
-        Bioinformatician at :hospital: KFMC, Intrested in Genomics\in-silico :DNA: data analysis in love :heart: with Open-source.
+        Bioinformatician at :hospital: KFMC, Intrested in Genomics\in-silico 🧬 data analysis in love :heart: with Open-source.
         Major in Labolatories technologies (2017), curentlly IT :computer: senior student at SEU
         <br>
         💬 Ask me about Clinical Bioinformatics
