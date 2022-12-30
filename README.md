@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah </h1>
+<img src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="aalnawfal1992" />
+
 
 <div>
   <h3 align="left">About me:</h3>
