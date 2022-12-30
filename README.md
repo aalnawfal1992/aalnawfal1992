@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdullah <br>Bioinformatician </h1>
-<h3 align="center"></h3>
+<h1 align="center">Hi 👋, I'm Abdullah <br>Bioinformatician <br> <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="aalnawfal1992" /> </p> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="aalnawfal1992" /> </p>
+
 
 - 💬 Ask me about **Clinical Bioinformatics**
 
