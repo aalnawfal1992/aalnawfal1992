@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah <br>Bioinformatician <br> <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="aalnawfal1992" /> </p> </h1>
+<h1 align="center">Hi 👋, I'm Abdullah <br>Bioinformatician <br> <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="aalnawfal1992" /> </p> </h1>
 
 
 
