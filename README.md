@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Abdullah </h1>
+
 <div>
   <h3 align="left">About me:</h3>
   <p>
