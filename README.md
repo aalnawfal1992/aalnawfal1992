@@ -7,7 +7,7 @@
 <div>
   <h3 align="left">About me:</h3>
   <p>
-      I'm a Bioinformatician at kinf Fahad Medical City :hospital: from Saudi Arabia 🇸🇦:, Intrested in Genomics\in-silico :dna: data analysis in love :heart: with Open-source.
+      I'm a Bioinformatician at King Fahad Medical City :hospital: from Saudi Arabia 🇸🇦:, Intrested in Genomics\in-silico :dna: data analysis in love :heart: with Open-source.
       Major in Labolatories technologies :dna: (2017), curentlly IT :computer: senior student at SEU. 💬 Ask me about Clinical Bioinformatics
       <h5 align="center">:email: me: a.alnawfal.1992@gmail.com</h5>
       </p>
