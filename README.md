@@ -8,7 +8,7 @@
   <h3 align="left">About me:</h3>
   <p>
       A Bioinformatician at King Fahad Medical City :hospital: from Saudi Arabia 🇸🇦:, Intrested in Genomics\in-silico data analysis :dna:, in love with Open-source :heart:.
-      Major in Labolatories technologies :dna: (2017), curentlly IT :computer: senior student at SEU. 💬 Ask me about Clinical Bioinformatics
+      Dual Major in Labolatories technology :dna: (2017,QU)and IT :computer: (<a href="https://seu.edu.sa">(2023,SEU)</a>). 💬 Ask me about Clinical Bioinformatics
       <h5 align="center">:email: me: a.alnawfal.1992@gmail.com</h5>
       </p>
   <p align="center">
