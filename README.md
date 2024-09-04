@@ -11,9 +11,6 @@
       Dual Major in Labolatories technology :dna:<a href="https://www.qu.edu.sa">(2017,QU)</a> and Information technology :computer:<a href="https://seu.edu.sa">(2023,SEU)</a>. 💬 Ask me about Clinical Bioinformatics
       <h5 align="center">:email: me: a.alnawfal.1992@gmail.com</h5>
       </p>
-  <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aalnawfal1992&show_icons=true&locale=en" alt="aalnawfal1992" />
-  </p>
 </div>
 
 <details>
