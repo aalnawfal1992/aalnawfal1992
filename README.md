@@ -8,7 +8,7 @@
   <h3 align="left">About me:</h3>
   <p>
       A Bioinformatician from Saudi Arabia 🇸🇦:, Intrested in Genomics\in-silico data analysis :dna:, in love with Open-source :heart:.
-      Dual Major in Labolatories technology :dna:<a href="https://www.qu.edu.sa">(2017,QU)</a> and Information technology :computer:<a href="https://seu.edu.sa">(2023,SEU)</a>. <br> 💬 Ask me about Clinical Bioinformatics
+      Dual Major in Labolatories technology :dna:<a href="https://www.qu.edu.sa">(2017,QU)</a> and Information technology :computer:<a href="https://seu.edu.sa">(2023,SEU)</a>. <br> <p align="center"> 💬 Ask me about Clinical Bioinformatics </p>
       <h5 align="center">:email: a.alnawfal.1992@gmail.com</h5>
       </p>
 </div>
