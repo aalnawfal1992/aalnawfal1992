@@ -13,12 +13,6 @@
       </p>
 </div>
 
-<details>
-  <summary><b>Where to find me</b></summary>
-  <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-a-746930166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-a-746930166" height="30" width="40" /></a>
-  </p>
-</details>
 
 
 <details>
