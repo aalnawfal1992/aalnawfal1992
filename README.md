@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/aalnawfal1992">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Genomics+Pipeline+Engineering+%F0%9F%A7%AC;Reproducible+NGS+with+Nextflow+%26+Snakemake;AI+%26+Deep+Learning+for+Genomic+Data;Advancing+Precision+Medicine" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Genomics+Pipeline+Engineering+%F0%9F%A7%AC;Reproducible+NGS+with+Nextflow+%26+Snakemake;AI+%26+Deep+Learning+for+Genomic+Data;Advancing+Precision+Medicine" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aalnawfal1992&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aalnawfal1992.aalnawfal1992&left_text=Profile%20Views&right_color=%230e75b6" alt="profile views" />
 </p>
 
 <!-- SOCIAL -->
@@ -106,17 +106,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aalnawfal1992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aalnawfal1992&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="github stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalnawfal1992&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalnawfal1992&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://streak-stats.demolab.com/?user=aalnawfal1992&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
 
+<!-- Trophy card temporarily disabled: the public github-profile-trophy instance is over quota (HTTP 402).
+     Re-enable by uncommenting once the service recovers.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aalnawfal1992&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
+-->
+
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aalnawfal1992&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
