@@ -1,6 +1,6 @@
 <!-- HEADER  -->
 <a href="https://github.com/aalnawfal1992">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6A1B9A&height=200&section=header&text=Abdullah%20Al-Nawfal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatician%20%C2%B7%20Applied%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=60" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6A1B9A&height=200&section=header&text=Abdullah%20Al-Nawfal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatician%20%C2%B7%20Applied%20AI%20and%20Machine%20Learning&descSize=18&descAlignY=60" alt="header" />
 </a>
 
 <p align="center">
